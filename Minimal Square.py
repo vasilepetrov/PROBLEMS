@@ -1,3 +1,7 @@
+'''
+Problem 1360A CodeForces
+'''
+
 t = int(input())
 side_square = 0
 square_sides = []
